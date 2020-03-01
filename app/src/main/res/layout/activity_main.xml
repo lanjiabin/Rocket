@@ -9,13 +9,13 @@
 
     <Button
         android:id="@+id/add_btn"
-        android:text="add view"
+        android:text="添加悬浮view"
         android:textAllCaps="false"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <Button
         android:id="@+id/rmv_btn"
-        android:text="remove view"
+        android:text="移除悬浮view"
         android:textAllCaps="false"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
