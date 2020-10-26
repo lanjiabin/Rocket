@@ -23,6 +23,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * jiabin.lan
+ * */
 public class MainActivity extends AppCompatActivity implements View.OnTouchListener, View.OnClickListener {
     private Button mCreateWndBtn, mRmvWndBtn;
     private ImageView mImageView;
