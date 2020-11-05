@@ -25,6 +25,7 @@ import android.widget.Toast;
 
 /**
  * jiabin.lan
+ * 我是更新后的主分支
  * */
 public class MainActivity extends AppCompatActivity implements View.OnTouchListener, View.OnClickListener {
     private Button mCreateWndBtn, mRmvWndBtn;

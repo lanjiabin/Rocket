@@ -4,7 +4,7 @@
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
-<!-- 我是主分支更新下来的 -->
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
